@@ -18,5 +18,6 @@
   if(document.getElementById('button-create-table').checked) 
    {
        console.log('create by' + name , studentid)
+       console.log(bottontable);
    }
     
